@@ -1,0 +1,17 @@
+{"level":"INFO","time":"2023-09-29T12:28:38.445Z","pid":18120,"hostname":"DESKTOP-V3IOTHR","msg":"Connexion réussie"}
+{"level":"INFO","time":"2023-09-29T12:29:25.633Z","pid":16084,"hostname":"DESKTOP-V3IOTHR","msg":"Connexion de l'utilisateur 65114eab99a38123d1191112 réussie"}
+{"level":"INFO","time":"2023-09-29T13:04:21.426Z","pid":23560,"hostname":"DESKTOP-V3IOTHR","msg":"Connexion de l'utilisateur 65114eab99a38123d1191112 réussie"}
+{"level":"INFO","time":"2023-09-29T13:05:18.239Z","pid":23560,"hostname":"DESKTOP-V3IOTHR","msg":"Connexion de l'utilisateur 65114eab99a38123d1191112 réussie"}
+{"level":"INFO","time":"2023-11-26T16:30:53.075Z","pid":6060,"hostname":"Baguette","msg":"Création de la compétence656372bdbe729bdae7a2b491"}
+{"level":"INFO","time":"2023-11-26T16:41:46.848Z","pid":17804,"hostname":"Baguette","msg":"Création de la compétence6563754a7e55b0a3c168186b"}
+{"level":"INFO","time":"2023-11-26T16:43:54.830Z","pid":17804,"hostname":"Baguette","msg":"Création de la compétence656375ca7e55b0a3c1681879"}
+{"level":"INFO","time":"2023-11-26T16:44:38.994Z","pid":17804,"hostname":"Baguette","msg":"Création de la compétence656375f67e55b0a3c1681881"}
+{"level":"INFO","time":"2023-11-26T16:46:45.896Z","pid":17804,"hostname":"Baguette","msg":"Création de la compétence656376757e55b0a3c168188a"}
+{"level":"INFO","time":"2023-11-26T16:48:19.740Z","pid":25944,"hostname":"Baguette","msg":"Création de la compétence656376d346406e36708ec2dc"}
+{"level":"INFO","time":"2023-11-26T16:50:36.274Z","pid":25944,"hostname":"Baguette","msg":"Création de la compétence6563775c46406e36708ec301"}
+{"level":"INFO","time":"2023-11-27T10:31:01.344Z","pid":17956,"hostname":"LAPTOP-QVQU7G0M","msg":"Création de l'utilisateur65646fe5dd5df9b998fae86f"}
+{"level":"INFO","time":"2023-11-27T14:00:59.125Z","pid":17108,"hostname":"LAPTOP-QVQU7G0M","msg":"Connexion de l'utilisateur 65646fe5dd5df9b998fae86f réussie"}
+{"level":"INFO","time":"2023-11-27T14:02:00.038Z","pid":17108,"hostname":"LAPTOP-QVQU7G0M","msg":"Connexion de l'utilisateur 65646fe5dd5df9b998fae86f réussie"}
+{"level":"INFO","time":"2023-11-27T14:05:20.415Z","pid":17108,"hostname":"LAPTOP-QVQU7G0M","msg":"Connexion de l'utilisateur 65646fe5dd5df9b998fae86f réussie"}
+{"level":"INFO","time":"2023-11-27T14:06:22.481Z","pid":17108,"hostname":"LAPTOP-QVQU7G0M","msg":"Connexion de l'utilisateur 65646fe5dd5df9b998fae86f réussie"}
+{"level":"INFO","time":"2023-11-27T14:10:35.522Z","pid":17108,"hostname":"LAPTOP-QVQU7G0M","msg":"Connexion de l'utilisateur 65646fe5dd5df9b998fae86f réussie"}
