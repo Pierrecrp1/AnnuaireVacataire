@@ -1,0 +1,19 @@
+name: Deploy Annuvac
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+
+  deploy:
+    runs-on: [self-hosted, manager]
+    steps:
+      - name: Checkout codebase
+        uses: actions/checkout@v2
+
+      - name: deploy
+        run: |
+          docker-compose down
+          docker-compose up -d --build
